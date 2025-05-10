@@ -1,5 +1,5 @@
 <p>
-<h2><b style='color:brown'>ZIL</b> is a nocode platform, helps you to build business applications without coding.</h2>
+<h1><b style='color:brown'>ZIL</b> is a nocode platform, helps you to build business applications without coding.</h1>
 <img width='400px' src='https://static.wixstatic.com/media/e5534e_d5b7a97b74a64a55a56f44be0a98d627~mv2.jpg'/>
 <b style='color:brown'>ZIL</b> is the easiest way to create apps for your management works. With <b>ZIL</b>, all app's components (like menu, window, workflow, report...) are  pre-built like Lego bricks and pieces. You just choose, drag-drop and config them to build apps.
 <ul><b>The <i style='color:brown'>ZIL</i> tools includes:</b>
